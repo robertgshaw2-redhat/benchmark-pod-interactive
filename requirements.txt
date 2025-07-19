@@ -6,3 +6,4 @@ pandas
 datasets
 pillow
 rust-just
+lm_eval[api]
